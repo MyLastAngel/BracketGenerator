@@ -1,4 +1,6 @@
-# BracketGenerator
+# BracketGenerator 
+![.NET Core](https://github.com/MyLastAngel/BracketGenerator/workflows/.NET%20Core/badge.svg)
+
 Генерация скобочных последовательностей (яндекс)
 (https://contest.yandex.ru/contest/8458/problems/D/?success=33045823#1037/2018_06_28/zZXerSbAaX)
 
